@@ -18,6 +18,6 @@ $nama_kelas_10b = [
 ]; 
 
 echo "Daftar Anggota Kelas 10 B <br>" ;
- foreach ($nama_kelas_10b as $anggota_kelas_10b) {
-    echo "-" . $anggota_kelas_10b . "<br>" ;
+ foreach ($nama_kelas_10b as $nama_kelas_10b) {
+    echo "-" . $nama_kelas_10b . "<br>" ;
  }
